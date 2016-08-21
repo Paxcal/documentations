@@ -1,6 +1,6 @@
 # React
 
-[Introduction 1](http://www.slideshare.net/borisdinkevich/introduction-to-react-redux) [Introduction 1](http://www.slideshare.net/visualengin/workshop-19-reactjs-introduction)
+[Introduction 1](http://www.slideshare.net/borisdinkevich/introduction-to-react-redux) [Introduction 2](http://www.slideshare.net/visualengin/workshop-19-reactjs-introduction)
 
 [Flux/redux](http://www.slideshare.net/visualengin/workshop-20-reactjs-part-ii-flux-patter-redux)
 
